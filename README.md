@@ -2,6 +2,8 @@
 
 A browser slot machine built for Week 5 of the 2019 Resilient Coders bootcamp curriculum. You start with a $500 balance and choose a $5 or $50 bet. Three fruit reels spin with each bet, and if all three match, you win 10× your bet. Your balance updates after each spin, and the game won't let you bet more than you have.
 
+**Live demo:** https://soyalrjbk.github.io/Slot-Machine-Game
+
 <img width="700" height="400" alt="Slot Machine" src="https://github.com/user-attachments/assets/f54f321d-71de-45a2-a7ca-0c2eaf59bd40" />
 
 ## How It's Made:
